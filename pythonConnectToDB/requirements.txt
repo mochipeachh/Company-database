@@ -1,0 +1,4 @@
+flask-sqlalchemy
+pymysql
+flask==2.2
+numpy
